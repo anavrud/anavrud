@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksander Navrud</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm currently doing my Master's in Electronic Systems Design with spesialization Signal Processing and Communication at NTNU (Norwegian University of Science and Technology).
+
+I hold a Bachelor's degree in Electrical Engineering with spesialization in Electronics and Sensor Systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
