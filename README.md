@@ -26,7 +26,7 @@
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/VHDL_logo.svg/800px-VHDL_logo.svg.png" alt="vhdl" width="40" height="40"/>
   </a>
-  <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/LabVIEW" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" width="40" height="40"/>
   </a>
 </p>
