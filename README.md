@@ -27,6 +27,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/VHDL_logo.svg/800px-VHDL_logo.svg.png" alt="vhdl" width="40" height="40"/>
   </a>
   <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/LabVIEW_Logo.png/800px-LabVIEW_Logo.png" alt="labview" width="40" height="40"/>
+    <img src="https://tigerware.lsu.edu/image/f19e8816-6288-413b-a617-dad824b48291.png?preset=Full" alt="labview" width="40" height="40"/>
   </a>
 </p>
