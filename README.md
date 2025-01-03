@@ -27,6 +27,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/VHDL_logo.svg/800px-VHDL_logo.svg.png" alt="vhdl" width="40" height="40"/>
   </a>
   <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/28/134/png-transparent-national-instruments-labview-hd-logo-thumbnail.png" alt="labview" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" width="40" height="40"/>
   </a>
 </p>
